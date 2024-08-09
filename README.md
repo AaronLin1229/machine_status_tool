@@ -1,6 +1,7 @@
 # Machine Status Tool (MST)
 
 Machine Status Tool is a command-line utility to fetch and display machine status information for NTU CSIE work stations.
+
 ## Showcase
 
 Here are some GIFs demonstrating the Machine Status Tool in action:
